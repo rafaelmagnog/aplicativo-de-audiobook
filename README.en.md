@@ -3,6 +3,7 @@
 [![Status](https://img.shields.io/badge/status-Finished-brightgreen)](README.md)
 [![Language: PT-BR](https://img.shields.io/badge/Language-Portuguese-green)](README.md)
 [![Language: EN](https://img.shields.io/badge/Language-English-red)](README.en.md)
+[![Linguagem](https://img.shields.io/badge/Stack-JavaScript%20|%20HTML%20|%20CSS-lightyellow)](README.md)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 A simple and interactive **audiobook player**, developed as part of the **JavaScript Bootcamp** by [Hashtag Dev](https://www.hashtagtreinamentos.com/).
