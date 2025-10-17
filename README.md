@@ -12,7 +12,7 @@ O projeto simula um reprodutor de áudio onde o usuário pode **tocar, pausar, a
 Os áudios utilizados foram baixados **exclusivamente para fins educativos** e não possuem fins comerciais.
 
 📺 Aula completa do projeto:  
-👉 [Intensivo JavaScript - Hashtag Programação (YouTube)](https://www.youtube.com/live/DK_RM0lqjZQ?si=_KikMq2qJ1EVbD2i)
+👉 [Intensivo JavaScript - Hashtag Dev (YouTube)](https://www.youtube.com/live/DK_RM0lqjZQ?si=_KikMq2qJ1EVbD2i)
 
 ---
 
