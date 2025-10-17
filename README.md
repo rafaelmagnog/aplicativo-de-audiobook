@@ -3,6 +3,7 @@
 [![Status](https://img.shields.io/badge/status-Concluído-brightgreen)](README.md)
 [![Idioma: PT-BR](https://img.shields.io/badge/Idioma-Português-green)](README.md)
 [![Idioma: EN](https://img.shields.io/badge/Idioma-Inglês-red)](README.en.md)
+[![Linguagem](https://img.shields.io/badge/Stack-JavaScript%20|%20HTML%20|%20CSS-lightyellow)](README.md)
 [![Licença](https://img.shields.io/badge/licença-MIT-blue)](LICENSE)
 
 Um projeto simples de **audiobook interativo**, desenvolvido como parte do **Intensivo de JavaScript** da [Hashtag Dev](https://www.hashtagtreinamentos.com/).
